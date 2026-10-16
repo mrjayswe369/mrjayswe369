@@ -1,6 +1,6 @@
 # Jayakumar S
 
-**Senior Full-Stack Engineer**
+Senior Full-Stack Engineer | TypeScript · Python · React · FastAPI | AI applications with evidence grounding | Hyderabad
 
 I design and ship production systems that combine strong frontend experiences, reliable backend services, and rigorous automation. My recent work focuses on AI applications that ground claims in evidence and automation that survives real-world data constraints.
 
